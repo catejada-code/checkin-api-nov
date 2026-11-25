@@ -6,7 +6,7 @@
 		<groupId>7b120fbe-028e-4661-a01c-7b57cb98a9ec</groupId>
 		<artifactId>solutions-bom</artifactId>
 		<version>1.0.27</version>
-		<relativePath>../parent-pom/pom.xml</relativePath>
+		<relativePath>parent-pom/pom.xml</relativePath>
 	</parent>
 
 	<groupId>7b120fbe-028e-4661-a01c-7b57cb98a9ec</groupId>
